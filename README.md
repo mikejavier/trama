@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Trama-Logo.png" />
+</p>
+
 <h1 align="center">Trama</h1>
 
 Guia de mobilidade à pé com experiência afetiva para deficientes visuais.
